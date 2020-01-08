@@ -9,5 +9,5 @@ A software engineering team generator command line application. The application 
  
  ## screenshot
  
- * ![text] (https://github.com/Jupton2020/EmployeeSummary/blob/master/img/Screen%20Shot%202020-01-07%20at%208.07.10%20PM.png)
+![alt text](https://github.com/Jupton2020/EmployeeSummary/blob/master/img/Screen%20Shot%202020-01-07%20at%208.07.10%20PM.png)
  
