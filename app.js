@@ -1,10 +1,10 @@
 const fs = require ("fs")
-const inquirer =requirer("inquirer")
+const inquirer =require("inquirer")
 let renderFile = require("./render")
 const generateManager = renderFile.createManager
 const generateEngineer  = renderFile.createEngineer
 const generateIntern = renderFile.createIntern
-const renterHTML = renderFile.renderMain
+const renderHTML = renderFile.renderMain
 
 function askQuestions(){    
   inquirer
@@ -16,7 +16,7 @@ function askQuestions(){
   { 
       type:"number",
       message:"What is your ID?",
-      name:"ID",
+      name:"id",
   },
 
   { 
